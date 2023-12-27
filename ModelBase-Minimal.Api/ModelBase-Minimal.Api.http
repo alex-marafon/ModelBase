@@ -1,0 +1,6 @@
+@ModelBase_Minimal.Api_HostAddress = http://localhost:5130
+
+GET {{ModelBase_Minimal.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
